@@ -47,6 +47,13 @@ Result: 7/7 Passed
 ## Live App Note
 The Gradio live link is temporary and expires when Colab stops.
 If the live link does not open, please watch the 2-minute demo video above and run backend/safe_core.py from this repo. The full working flow is recorded in the video.
+## 🚀 Live Demo (24/7 Working for Judges)
+
+**Live App:** https://rishabhmehra132001-drik-ai.hf.space
+
+**Hugging Face Space:** https://huggingface.co/spaces/Rishabhmehra132001/drik-ai
+
+> Note for Judges: The previous Gradio link was temporary and may not work. Please use the above Hugging Face link - it is permanent and works 24/7.
 
 ## Built During The Event
 All code, S.A.F.E.-Core logic, tests and demo were built fresh during the Meta Global AI Developer Hackathon build window. No pre-event code or footage was reused.
