@@ -6,6 +6,10 @@
 **Demo Video (2 min):** https://www.youtube.com/watch?v=t6MwspbYx88
 **GitHub Repo:** https://github.com/rishabhmehra132001/Drik.ai
 
+**🚀 Live Working App (24/7 for Judges):** [Click Here to Run Drik.AI](https://huggingface.co/spaces/Rishabhmehra132001/drik-ai)
+
+> **Note for Judges:** Please click the **App** tab on the Hugging Face page to use the live app. The old temporary Gradio link has expired, please use this permanent link.
+
 ## What is Drik.AI?
 Drik.AI is built for Indian households who pay for a technician for small faults, and who need a clear warning when a repair is dangerous and must NOT be tried at home.
 
